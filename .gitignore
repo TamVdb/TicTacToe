@@ -1,0 +1,12 @@
+# VS CODE
+.vscode/*
+*.code-workspace
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Misc
+.DS_Store
+desktop.ini
